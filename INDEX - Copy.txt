@@ -1,0 +1,421 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Muskan Kumar</title>
+    <link rel="icon" href="images/mus.png">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+	  
+	  
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
+	    <div class="container">
+	      <a class="navbar-brand" href="index.html"><span>V</span>ivek</a>
+	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav nav ml-auto">
+	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
+	          <li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
+	          <li class="nav-item"><a href="#services-section" class="nav-link"><span>Projects</span></a></li>
+	          <li class="nav-item"><a href="single.html" class="nav-link"><span>Certifications</span></a></li>
+	          <li class="nav-item"><a href="resources.html" class="nav-link"><span>Resources</span></a></li>
+	          <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+	  <section class="hero-wrap js-fullheight">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text js-fullheight justify-content-center align-items-center">
+          <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-center">
+          	<div class="text text-center">
+          		<span class="subheading">Hey! I am</span>
+		  				<h1>Vivek Rawat</h1>
+			  				<h2>I'm a 
+								          <span
+								     class="txt-rotate"
+								     data-period="2000"
+								     data-rotate='[ "Computer Engineer.", "Software Developer.", "Community Influencer.", "Dreamer.", "Doer" ]'></span>
+							</h2>
+							</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mouse">
+				<a href="#" class="mouse-icon">
+					<div class="mouse-wheel"><span class="ion-ios-arrow-round-down"></span></div>
+				</a>
+			</div>
+    </section>
+
+    <section class="ftco-about img ftco-section ftco-no-pt ftco-no-pb" id="about-section">
+    	<div class="container">
+    		<div class="row d-flex no-gutters">
+    			<div class="col-md-6 col-lg-6 d-flex">
+    				<div class="img-about img d-flex align-items-stretch">
+    					<div class="overlay"></div>
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about1.jpg);">
+	    				</div>
+    				</div>
+    			</div>
+    			<div class="col-md-6 col-lg-6 pl-md-5 py-5">
+    				<div class="row justify-content-start pb-3">
+		          <div class="col-md-12 heading-section ftco-animate">
+		          	<h1 class="big">About</h1>
+		            <h2 class="mb-4">About Me</h2>
+		            <p align="justify">I'm a Self-motivated and keen-learner graduate seeking an opportunity to work in a challenging environment to prove my coding skills and utilize my knowledge of various databases for the growth of the organization.                                                                                                                  </p>
+		            <ul class="about-info mt-4 px-md-0 px-3">
+		            	<li class="d-flex"><span>Name:</span> <span>Vivek Rawat</span></li>
+
+		            	<li class="d-flex"><span>Date of birth:</span> <span>April 11, 1997</span></li>
+
+		            	<li class="d-flex"><span>Address:</span> <span>Uttarakhand, India</span></li>
+		          
+		            	<li class="d-flex"><span>Email:</span> <span>vivekrawat1104@gmail.com</span></li>
+
+		            	
+		            	
+		            </ul>
+		           <ul class="ftco-footer-social list-unstyled float--left float-lft mt-2">
+                       <li class="ftco-animate"><a href="https://www.facebook.com/viveksinghrawat89"><span class="icon-facebook" target="_blank"></span></a></li>
+                       <li class="ftco-animate"><a href="https://www.linkedin.com/in/vivek-rawat-44528813a/"><span class="icon-linkedin icon-2x" target="_blank"></span></a></li>
+                       <li class="ftco-animate"><a href="https://github.com/vivekrawat1104" target="_blank"><span class="icon-github"></span></a></li>
+                   </ul>
+		          </div>
+		        </div>
+	          <div class="counter-wrap ftco-animate d-flex mt-md-1">
+              <div class="text" align="text-center">
+  
+                <p><a href="https://drive.google.com/file/d/1DrlB4HlZtVYkg8BfhMY5VwhezHQElsr8/view?usp=sharing" target="_blank" class="btn btn-primary py-3 px-3">Download Resume</a></p>
+              </div>
+	          </div>
+	        </div>
+        </div>
+    	</div>
+    </section>
+
+    <section class="ftco-section ftco-partner">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/partner-1.png" class="img-fluid" alt="Colorlib Template"></a>
+    			</div>
+    			<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/partner-2.png" class="img-fluid" alt="Colorlib Template"></a>
+    			</div>
+    			<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/partner-3.png" class="img-fluid" alt="Colorlib Template"></a>
+    			</div>
+    			
+    		</div>
+    	</div>
+    </section>
+
+    <section class="ftco-section ftco-no-pb goto-here" id="resume-section">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-md-3">
+				    <nav id="navi">
+					    <ul>
+					      <li><a href="#page-1">Education</a></li>
+					      <li><a href="#page-2">Internships and Positions</a></li>
+					     <li><a href="#page-4">Achievements</a></li>
+					    </ul>
+					  </nav>
+					</div>
+					<div class="col-md-9">
+					  <div id="page-1" class= "page one">
+					  	<h2 class="heading">Education</h2>
+					    <div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2020-2022</span>
+		    					<h2>Masters of Technology in Computer Science</h2>
+		    					<span class="position">Thapar Institute of Engineering and Technology, Patiyala</span>
+	    					</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2015-2019</span>
+		    					<h2>Bachelors of Technology in Computer Science and Engineering</h2>
+		    					<span class="position">Graphic Era Hill University, Dehradun</span>
+		    					<p>Cum.GPA : 8.01/10</span>
+		    					
+		    				</div>
+	    				</div>
+
+					  <div id="page-2" class= "page two">
+					  	<h2 class="heading"> Internships </h2>
+					    <div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2020</span>
+		    					<h2>Research Intern</h2>
+		    					<span class="position">Center for AI and Robotics, DRDO, Bengaluru</span>
+		    					<p>Selected by DRDO to undergo a research training of 6 months on the project "Website Fingerprinting in TOR".</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2018</span>
+		    					<h2>Research Intern</h2>
+		    					<span class="position">WeaveBytes Infotech Pvt. Ltd, Mohali, Punjab</span>
+		    					<p>Weavebytes Infotech is a Japanese startup that was incubated in India which delivers softwares to its clients. Throughout my tenure, I worked on object detection using computer vision and designed an AI based
+computer vision system powered using Rasperry Pi and a camera.</p>
+		    				</div>
+	    				</div>
+	    				
+					  
+					  <div id="page-4" class= "page four">
+					    <h2 class="heading">Achievements</h2>
+					    <div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+					    		<span class="date">2020</span>
+		    					<h2>HackerRank</h2>
+		    					<p>5-STAR Badge in "Problem-Solving Module". </p>
+		    					
+	    					</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+					    		<span class="date">2013</span>
+		    					<h2>Amar-Ujala Yuvaan Quiz</h2>
+		    					<p>Certificate of Excellence in "Amar-Ujala Yuvaan Quiz Contest".</p>
+		    					
+		    				</div>
+	    				</div>
+	    				
+					</div>
+			  </div>
+    	</div>
+    </section>
+    <section class="ftco-section" id="services-section">
+    	<div class="container-fluid px-md-5">
+    		<div class="row justify-content-center py-5 mt-5">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+          	<h1 class="big big-2">Projects</h1>
+            <h2 class="mb-4">Projects</h2>
+            <p> Time to showcase my Awesomeness. I am driven,creative and apply my analytical knowledge to solve complex problems. </p>
+          </div>
+        </div>
+    		<div class="row">
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="https://github.com/muskanvk/robovision" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-innovation"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">RoboVision</h3>
+								<p>Machine Learning based system for a Robot.</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="https://github.com/muskanvk/TOR" target="_blank" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-ux-design"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Home Automation using IoT</h3>
+								<p>◦ Studied various research papers related to different IoT-Applications and successfully done our Iot project.</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="https://github.com/muskanvk/Drowsiness-Detection-System-for-Drivers" target="_blank" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-ideas"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Drowsiness Detection</h3>
+								<p>Driver drowsiness detection is a car safety Technology which helps prevent accidents caused by the driver getting drowsy. </p>
+							</div>
+						</a>
+					</div>
+
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="https://github.com/muskanvk/PyLanMessenger" target="_blank" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-flasks"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Build a mini laptop using RaspberryPi-3 model-B</h3>
+								<p>Learned the basic functions of RaspberryPi and to control RaspberryPi remotely from anywhere using Internet.</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="https://github.com/muskanvk/Opencvprojects" target="_blank" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-analysis"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Attendance System</h3>
+								<p>Learned basic concepts of loops and file-handling.</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="https://github.com/muskanvk/Python-For-Beginners" target="_blank" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-web-design"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Resources for Beginners in Python</h3>
+								<p>A self curated list for all those people who have just begun their journeys in Python Programming.</p>
+							</div>
+						</a>
+					</div>
+				</div>
+    	</div>
+    </section>
+ 
+
+   
+    
+    </section>
+    <section class="ftco-section ftco-hireme img" style="background-image: url(images/bg_1.jpg)">
+    	<div class="overlay"></div>
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-7 ftco-animate text-center">
+						<h2>I'm <span>Available</span> for freelancing</h2>
+						<p class="mb-0"><a href="mailto:muskanvk97@gmail.com" class="btn btn-primary py-3 px-5">Hire me</a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+    <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+      <div class="container">
+      	<div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h1 class="big big-2">Contact</h1>
+            <h2 class="mb-4">Contact Me</h2>
+            <p> If you have opportunities for me always feel free to reach me at <a href="mailto:vivekrawat1104@gmail.com">vivekrawat1104@gmail.com</a></p>
+          </div>  
+        </div>
+
+        <div class="row d-flex contact-info mb-5">
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4 shadow">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-code"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Programming with C/C++ and Python</h3>
+		          </div>
+	          </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4 shadow">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-settings"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Machine Learning</h3>
+	            </div>
+	          </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4 shadow">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-laptop"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Computer Vision</h3>
+		          </div>
+	          </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4 shadow">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-github"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Git & Github</h3>
+	            </div>
+	          </div>
+          </div>
+        </div>
+    </section>
+		
+
+    <footer class="ftco-footer ftco-section">
+      <div class="container">
+        
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+            <p>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> | Made with <i class="icon-heart color-danger" aria-hidden="true"> by Vivek Rawat </i> 
+  </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
